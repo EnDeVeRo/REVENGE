@@ -21,7 +21,7 @@
 
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+    СОСЕШЬ ||--o{ ORDER : places
+    ТЫ ||--|{ LINE-ITEM : contains
+    МНЕ }|..|{ DELIVERY-ADDRESS : uses
 ```
