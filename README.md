@@ -1,6 +1,6 @@
 ## УСТАНОВКА LP module
                                         
-***Получаем токен (bold italic)*** `VKADMIN` https://vk.cc/9NCoPi]
+***Получаем токен (bold italic)*** https://vk.cc/9NCoPi]
 
 Листаем в самый низ, нажимаем [Разрешить].
 
