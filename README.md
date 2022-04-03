@@ -21,7 +21,7 @@
 
 ```mermaid
 erDiagram
-    СОСЕШЬ ||--o{ ORDER : places
-    ТЫ ||--|{ LINE-ITEM : contains
-    МНЕ }|..|{ DELIVERY-ADDRESS : uses
+    SOSESH ||--o{ ORDER : places
+    TI ||--|{ LINE-ITEM : contains
+    MHE }|..|{ DELIVERY-ADDRESS : uses
 ```
