@@ -21,7 +21,7 @@
 
 ```mermaid
 erDiagram
-    ТЫ ||--o{ ORDER : тут сосешь
-    СОСЕШЬ ||--|{ LINE-ITEM : и тут сосешь
-    МНЕ }|..|{ DELIVERY-ADDRESS : блять соси глубже
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
